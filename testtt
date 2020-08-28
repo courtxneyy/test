@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body>
+</head>
+	<h1> hewwoo</h1>
+	<p>im a <b>paragraph</b> element hehe</p>
+	<a href="https://google.com>"target="_blank"title="Let's go to Google">Click me! I'm a link!</a>
+	<p>My name is:<br>
+	Milky</p>
+	<img src="https://pbs.twimg.com/media/ESjLSrEU0AA4Eli.jpg">
+</body>
+</html>
